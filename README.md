@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d525bafc-e526-4ee7-bbd3-ae67e84ce204" /># 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on a budget management Android app focused on tracking expenses and cash flow<br>👯 I’m looking to collaborate on Android apps, fintech projects, and backend-integrated mobile applications<br>🤝 I’m looking for help with backend architecture, API design, database structuring, and multi-device sync (Firebase/APIs)  <br>🌱 I’m currently learning Java backend development, system design fundamentals, and Android (Jetpack, MVVM)  <br>💬 Ask me about Advance Java, Android development and building real-world projects  <br>⚡ I focus more on building real projects across frontend and backend rather than just following tutorials  
 
 
